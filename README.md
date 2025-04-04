@@ -5,7 +5,7 @@
 
 
 
-这个仓库用来存放@Eurekaimer在完成CS61a过程中的HWs/Labs/Projects的实现和一些新手可能犯的错误(因为我在学习过程中应该会都踩一遍)
+这个仓库用来存放[@Eurekaimer](https://github.com/Eurekaimer)在完成CS61a过程中的HWs/Labs/Projects的实现和一些新手可能犯的错误(因为我在学习过程中应该会都踩一遍)
 
 
 
