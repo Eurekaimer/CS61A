@@ -21,7 +21,7 @@
 
 - [ ] 语言：Python
 
-- [ ] 前置：无
+- [x] 前置：无
 
 - [ ] 参考学习顺序：reading-lecture-q&a-(lab/disc/hw)-project
 
