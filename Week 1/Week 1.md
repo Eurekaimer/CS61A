@@ -1,4 +1,3 @@
-#CS61a
 # Week 1
 
 ## Summary
