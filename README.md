@@ -3,7 +3,7 @@
 
 ## 前言
 
-这个仓库用来存放[@Eurekaimer](https://github.com/Eurekaimer)在完成CS61a过程中的HWs/Labs/Projects的实现和一些新手可能犯的错误(因为我在学习过程中应该会都踩一遍)
+这个仓库用来存放[@Eurekaimer](https://github.com/Eurekaimer)在完成CS61A过程中的HWs/Labs/Projects的实现和一些新手可能犯的错误(因为我在学习过程中应该会都踩一遍)
 
 
 完成的时间轴：TBA(To be anounced)(2025.04.05-)
@@ -60,7 +60,7 @@ CS61a的资源参考(24spring)如下：
 
 文章参考：
 
-1. [CS61a学习总结](https://zhuanlan.zhihu.com/p/640290712)
+1. [CS61A学习总结](https://zhuanlan.zhihu.com/p/640290712)
 2. [CS61A 学习经验&感想](https://zhuanlan.zhihu.com/p/486323075)
 
 
