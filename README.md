@@ -3,7 +3,7 @@
 
 ## 前言
 
-这个仓库用来存放[@Eurekaimer](https://github.com/Eurekaimer)在完成CS61A过程中的HWs/Labs/Projects的实现和一些新手可能犯的错误(因为我在学习过程中应该会都踩一遍)
+这个[仓库](https://github.com/Eurekaimer/CS61a)用来存放[@Eurekaimer](https://github.com/Eurekaimer)在完成CS61A过程中的HWs/Labs/Projects的实现和一些新手可能犯的错误(因为我在学习过程中应该会都踩一遍)
 
 
 完成的时间轴：TBA(To be anounced)(2025.04.05-)
@@ -27,25 +27,19 @@
 
 以下是所有内容的完成情况(按照顺序排列):
 
-- [x] Week 1 2025.4.5（2.5h)
-  - [x] [Disc 00](https://www.learncs.site/docs/curriculum-resource/cs61a/cs61a_en/dis/disc00)
-  - [x] Reading
-    - [x] [Ch. 1.1 Getting Started](https://www.composingprograms.com/pages/11-getting-started.html)
-    - [x] [Ch. 1.2 Elements of Programming](https://www.composingprograms.com/pages/12-elements-of-programming.html)
-    - [x] [Ch. 1.3  Defining New Functions](https://www.composingprograms.com/pages/13-defining-new-functions.html)
-  - [x] [Videos(Functions)](https://www.youtube.com/watch?v=zYC7tKfKPtM&list=PL6BsET-8jgYULSxiV2garZ0FxbnXR08MP)
-  - [x] [Lab 0: Getting Started](https://www.learncs.site/docs/curriculum-resource/cs61a/cs61a_en/lab/lab00)
-    - [ ] [Solution](https://www.learncs.site/docs/curriculum-resource/cs61a/cs61a_en/lab/sol-lab00)
-  - [x] [HW 1: Functions, Control](https://www.learncs.site/docs/curriculum-resource/cs61a/cs61a_en/homework/hw01)
-    - [ ] [Solution](https://www.learncs.site/docs/curriculum-resource/cs61a/cs61a_en/homework/sol-hw01)
-  
-- [ ] Week 2 time(TBA)
-  - [ ] [Videos(Control)](https://www.youtube.com/watch?v=IPec2A7j2bY&list=PL6BsET-8jgYVCz97Y75GRXSWbb4sTpDIR)
-  - [ ] Reading
-    - [ ] [Ch. 1.4 Getting Started]())
-    - [ ] [Ch. 1.5 Elements of Programming]()
-
-
+- [x] Week-1 2025.4.5
+	- [x] Disc 00
+	- [x] Reading
+	- [x] Videos(Functions)
+	- [x] Lab 00: Getting Started
+	- [x] HW 01: Functions, Control
+- [ ] Week-2 2025.4.25
+	- [x] Videos(Control)
+	- [x] Reading
+	- [x] Lab 01
+	- [x] Disc 01
+	- [x] HW 02: Higher-Order Functions
+	- [ ] Project: Hog
 
 
 ## 资源汇总
@@ -60,7 +54,7 @@ CS61a的资源参考(24spring)如下：
 
 文章参考：
 
-1. [CS61A学习总结](https://zhuanlan.zhihu.com/p/640290712)
+1. [CS61a学习总结](https://zhuanlan.zhihu.com/p/640290712)
 2. [CS61A 学习经验&感想](https://zhuanlan.zhihu.com/p/486323075)
 
 
