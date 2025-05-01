@@ -27,27 +27,33 @@
 
 以下是所有内容的完成情况(按照顺序排列):
 
-- [x] [[61A-Week-1]] 2025.4.5
+- [x] [61A-Week-1](./Week 1/61A-Week-1.md) 2025.4.5
 	- [x] Disc 00
 	- [x] Reading
 	- [x] Videos(Functions)
 	- [x] Lab 00
 	- [x] HW 01
-- [x] [[61A-Week-2]] 2025.4.25
+- [x] [61A-Week-2](./Week 2/61A-Week-2.md) 2025.4.25
 	- [x] Videos(Control,Higher-Order Functions,Environments)
 	- [x] Reading
 	- [x] Lab 01
 	- [x] Disc 01
 	- [x] HW 02: Higher-Order Functions
-	- [ ] Project 1: The Game of Hog
-- [x] [[61A-Week-3]] 2025.4.27
+	- [x] [Project 1: The Game of Hog](./Week 2/Project 1-The Game of Hog.md)
+- [x] [61A-Week-3](./Week 3/61A-Week-3.md) 2025.4.27
 	- [x] Videos(Functional Abstraction,Function Examples)
 	- [x] Lab 02
 	- [x] Disc 02
-- [x] [[61A-Week-4]] 2025.4.30
+- [x] [61A-Week-4](./Week 4/61A-Week-4.md) 2025.4.30
 	- [x] Videos(Recursion,Tree Recursion)
 	- [x] HW 03
 	- [x] Disc 03
+
+
+
+注：每个Proj会单独开一个笔记记录
+
+
 
 
 ## 资源汇总
