@@ -27,19 +27,27 @@
 
 以下是所有内容的完成情况(按照顺序排列):
 
-- [x] Week-1 2025.4.5
+- [x] [[61A-Week-1]] 2025.4.5
 	- [x] Disc 00
 	- [x] Reading
 	- [x] Videos(Functions)
-	- [x] Lab 00: Getting Started
-	- [x] HW 01: Functions, Control
-- [ ] Week-2 2025.4.25
-	- [x] Videos(Control)
+	- [x] Lab 00
+	- [x] HW 01
+- [x] [[61A-Week-2]] 2025.4.25
+	- [x] Videos(Control,Higher-Order Functions,Environments)
 	- [x] Reading
 	- [x] Lab 01
 	- [x] Disc 01
 	- [x] HW 02: Higher-Order Functions
-	- [ ] Project: Hog
+	- [ ] Project 1: The Game of Hog
+- [x] [[61A-Week-3]] 2025.4.27
+	- [x] Videos(Functional Abstraction,Function Examples)
+	- [x] Lab 02
+	- [x] Disc 02
+- [x] [[61A-Week-4]] 2025.4.30
+	- [x] Videos(Recursion,Tree Recursion)
+	- [x] HW 03
+	- [x] Disc 03
 
 
 ## 资源汇总
@@ -68,3 +76,6 @@ CS61a的资源参考(24spring)如下：
 
 + 在线评测如何local使用OK(不通过UCBedu邮箱)的问题: 在正确的目录中(ls contains ok) type `python ok --local` in terminal
 
+### HW 03 
+
++ 关于匿名实现递归的信仰之跃
