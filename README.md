@@ -28,26 +28,30 @@
 以下是所有内容的完成情况(按照顺序排列):
 
 - [x] [61A-Week-1](https://github.com/Eurekaimer/CS61A/blob/main/Week%201/61A-Week-1.md) 2025.4.5
-	- [x] Disc 00
-	- [x] Reading
-	- [x] Videos(Functions)
-	- [x] Lab 00
-	- [x] HW 01
+  - [x] Disc 00
+  - [x] Reading
+  - [x] Videos(Functions)
+  - [x] Lab 00
+  - [x] HW 01
 - [x] [61A-Week-2](https://github.com/Eurekaimer/CS61A/blob/main/Week%202/61A-Week-2.md) 2025.4.25
-	- [x] Videos(Control,Higher-Order Functions,Environments)
-	- [x] Reading
-	- [x] Lab 01
-	- [x] Disc 01
-	- [x] HW 02: Higher-Order Functions
-	- [x] [Project 1: The Game of Hog](https://github.com/Eurekaimer/CS61A/blob/main/Week%202/Project%201-The%20Game%20of%20Hog.md)
+  - [x] Videos(Control,Higher-Order Functions,Environments)
+  - [x] Reading
+  - [x] Lab 01
+  - [x] Disc 01
+  - [x] HW 02: Higher-Order Functions
+  - [x] [Project 1: The Game of Hog](https://github.com/Eurekaimer/CS61A/blob/main/Week%202/Project%201-The%20Game%20of%20Hog.md)
 - [x] [61A-Week-3](https://github.com/Eurekaimer/CS61A/blob/main/Week%203/61A-Week-3.md) 2025.4.27
-	- [x] Videos(Functional Abstraction,Function Examples)
-	- [x] Lab 02
-	- [x] Disc 02
+  - [x] Videos(Functional Abstraction,Function Examples)
+  - [x] Lab 02
+  - [x] Disc 02
 - [x] [61A-Week-4](https://github.com/Eurekaimer/CS61A/blob/main/Week%204/61A-Week-4.md) 2025.4.30
-	- [x] Videos(Recursion,Tree Recursion)
-	- [x] HW 03
-	- [x] Disc 03
+  - [x] Videos(Recursion,Tree Recursion)
+  - [x] HW 03
+  - [x] Disc 03
+- [x] [61A-Week-5](https://github.com/Eurekaimer/CS61A/blob/main/Week%205/61A-Week-5.md) 2025.5.12
+  - [x] Videos(Sequences,Containers,Data Abstraction)
+  - [x] Lab 03
+  - [x] Disc 04
 
 
 
