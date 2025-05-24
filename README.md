@@ -52,7 +52,7 @@
   - [x] Videos(Sequences,Containers,Data Abstraction)
   - [x] Lab 03
   - [x] Disc 04
-  - [x] [Project 2-CS 61A Autocorrected Typing Software]()
+  - [x] [Project 2-CS 61A Autocorrected Typing Software](https://github.com/Eurekaimer/CS61A/blob/main/Week%205/Project%202-CS%2061A%20Autocorrected%20Typing%20Software.md)
 
 
 
