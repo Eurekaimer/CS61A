@@ -52,6 +52,7 @@
   - [x] Videos(Sequences,Containers,Data Abstraction)
   - [x] Lab 03
   - [x] Disc 04
+  - [x] [Project 2-CS 61A Autocorrected Typing Software]()
 
 
 
