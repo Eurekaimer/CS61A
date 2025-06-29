@@ -13,7 +13,7 @@
 
 > 由于一些版权上的问题UCB似乎向非UCB的学习者封闭了Archive的通道，所以这里建议选用国内的备份站点和B站的视频
 
-- [ ] 时间安排：预计200h
+- [x] 时间安排：预计200h
 
 - [x] 语言：Python
 
@@ -53,6 +53,12 @@
   - [x] Lab 03
   - [x] Disc 04
   - [x] [Project 2-CS 61A Autocorrected Typing Software](https://github.com/Eurekaimer/CS61A/blob/main/Week%205/Project%202-CS%2061A%20Autocorrected%20Typing%20Software.md)
+- [x] [61A-Week-6](https://github.com/Eurekaimer/CS61A/blob/main/Week%205/61A-Week-6.md) 2025.5.13
+  - [x] Videos
+  - [x] Lab 04
+  - [x] Disc 05
+  - [x] HW 04
+
 
 
 
