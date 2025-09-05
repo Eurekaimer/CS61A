@@ -3,7 +3,7 @@
 
 ## 前言
 
-这个[仓库](https://github.com/Eurekaimer/CS61a)用来存放[@Eurekaimer](https://github.com/Eurekaimer)在完成CS61A过程中的HWs/Labs/Projects的实现和一些新手可能犯的错误(因为我在学习过程中应该会都踩一遍)
+这个repo主要用来存放[@Eurekaimer](https://github.com/Eurekaimer)在完成CS61A过程中的HWs/Labs/Projects的实现和一些新手可能犯的错误(因为我在学习过程中应该会都踩一遍)
 
 
 完成的时间轴：TBA(To be anounced)(2025.04.05-)
@@ -53,11 +53,16 @@
   - [x] Lab 03
   - [x] Disc 04
   - [x] [Project 2-CS 61A Autocorrected Typing Software](https://github.com/Eurekaimer/CS61A/blob/main/Week%205/Project%202-CS%2061A%20Autocorrected%20Typing%20Software.md)
-- [x] [61A-Week-6](https://github.com/Eurekaimer/CS61A/blob/main/Week%205/61A-Week-6.md) 2025.5.13
+- [x] [61A-Week-6](https://github.com/Eurekaimer/CS61A/blob/main/Week%206/61A-Week-6.md) 2025.5.13
   - [x] Videos
   - [x] Lab 04
   - [x] Disc 05
   - [x] HW 04
+- [x] [61A-Week-7](https://github.com/Eurekaimer/CS61A/blob/main/Week%207/61A-Week-7.md)  2025.9.2
+  - [x] Videos(Iterators, Generators, Objects)
+  - [x] Lab 05
+  - [x] Disc 06
+  - [x] HW 05
 
 
 
@@ -85,9 +90,11 @@ CS61a的资源参考(24spring)如下：
 
 也可以使用[24fall备份(可fork完成作业)](https://github.com/InsideEmpire/CS61A-Assignments?tab=readme-ov-file#%E4%B8%AD%E6%96%87%E8%AF%B4%E6%98%8E)
 
+## Question and Feedback
 
-## 遇到的问题
 
+
+实际上，这门课的视频几乎可以说是完全包含于textbook中了，我认为如果有一定基础完全可以不看视频直接看书本然后完成lab和hw即可
 
 ### Lab 00
 
