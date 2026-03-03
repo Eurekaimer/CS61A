@@ -33,7 +33,13 @@ def scheme_eval(expr, env, _=None): # Optional third argument is ignored
         return scheme_forms.SPECIAL_FORMS[first](rest, env)
     else:
         # BEGIN PROBLEM 3
-        "*** YOUR CODE HERE ***"
+        # Evaluate the operator (which should evaluate to a Procedure instance).
+        procedure = scheme_eval(first, env)
+        # Evaluate all of the operands and collect the results (the argument values) in a Scheme list.
+        # So we should use map function.
+        args = rest.map(lambda exp: scheme_eval(exp, env))  
+        # Return the result of calling scheme_apply on this Procedure and these argument values.
+        return scheme_apply(procedure, args, env)
         # END PROBLEM 3
 
 def scheme_apply(procedure, args, env):
@@ -44,11 +50,18 @@ def scheme_apply(procedure, args, env):
        assert False, "Not a Frame: {}".format(env)
     if isinstance(procedure, BuiltinProcedure):
         # BEGIN PROBLEM 2
-        "*** YOUR CODE HERE ***"
+        procedure_args = []
+        # Convert the Scheme list of arguments to a Python list. You can use the provided function scheme_list_to_python_list in scheme_utils.py.
+        while args is not nil:
+            procedure_args.append(args.first)
+            args = args.rest
+        # If procedure.need_env is True, then add the current environment env as the last argument to this Python list.
+        if procedure.need_env:
+            procedure_args.append(env)
         # END PROBLEM 2
         try:
             # BEGIN PROBLEM 2
-            "*** YOUR CODE HERE ***"
+            return procedure.py_func(*procedure_args)
             # END PROBLEM 2
         except TypeError as err:
             raise SchemeError('incorrect number of arguments: {0}'.format(procedure))
