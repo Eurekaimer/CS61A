@@ -112,7 +112,7 @@ horse(mask)
 有一种当年玩指针的美感(只要正确的指向就可以明白，这里的环境图确实是加进理解的一种手段)
 
 
-![env-horse-mask](https://cdn.jsdelivr.net/gh/Eurekaimer/TOUKO-WEBP-01@main/objects/default/08d7dbb4-622e-4a84-83e3-1d2d453be015.webp)
+![env-horse-mask](https://cdn.jsdelivr.net/gh/Eurekaimer/TOUKO-WEBP-01@main/20261018100050-0001.webp)
 
 
 

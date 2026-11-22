@@ -206,7 +206,7 @@ def compose1(f, g):
 由于它没有return部分，使用lambda只能创建简单的函数，在Python中也不经常用，但是对于其他语言常用(我学Python和R的，我可以不看吗？)
 
 
-![lambda-def](https://cdn.jsdelivr.net/gh/Eurekaimer/TOUKO-WEBP-01@main/objects/default/8e479925-e64d-437a-aa3d-804f7e7a8269.webp)
+![lambda-def](https://cdn.jsdelivr.net/gh/Eurekaimer/TOUKO-WEBP-01@main/20261018100054-0022.webp)
 
 Only the def statement gives the function an intrinsic name. 
 
@@ -306,7 +306,7 @@ Remark: not calculate all subexpressions
 
 
 
-![higher-order function](https://cdn.jsdelivr.net/gh/Eurekaimer/TOUKO-WEBP-01@main/objects/default/642a051a-65e8-407e-82ab-7ca3af98fa6a.webp)
+![higher-order function](https://cdn.jsdelivr.net/gh/Eurekaimer/TOUKO-WEBP-01@main/20261018100053-0002.webp)
 
 
 注：就好像泛函一样，只是这里叫高阶函数
@@ -564,7 +564,7 @@ pass
 
 #### Q6: Double Trouble
 
-![env-fig](https://cdn.jsdelivr.net/gh/Eurekaimer/TOUKO-WEBP-01@main/objects/default/8f8c987c-1b56-44df-b0b3-e09f5046164e.png)
+![env-fig](https://cdn.jsdelivr.net/gh/Eurekaimer/TOUKO-WEBP-01@main/20261018100054-0000.png)
 
 
 
